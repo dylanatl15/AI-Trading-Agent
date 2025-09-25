@@ -1,0 +1,10 @@
+# 1. Blacklist EVERYTHING in this directory.
+*
+
+# 2. Whitelist files to keep.
+!launcher_beta.py
+!README.md
+
+
+# 3. Whitelist this .gitignore file itself so it doesn't get ignored.
+!.gitignore
